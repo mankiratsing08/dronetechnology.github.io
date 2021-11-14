@@ -1,2 +1,2 @@
 # dronetechnology.github.io 
-OPEN HOME PAGE
+1.st OPEN MAIN HOME.HTML FILE
